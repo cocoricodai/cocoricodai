@@ -5,6 +5,6 @@ I learn development web.
 
 So i use :
 
-   ❤ HTML 
-  2️⃣ CSS
-  3️⃣ JS
+  ❤HTML 
+  🧡 CSS
+  💛 JS
